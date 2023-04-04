@@ -1,4 +1,4 @@
 "# rakaminchallenge" 
 "# rakaminchallenge" 
 
-Test code located in e2e folder
+Test code located in cypress/e2e folder
